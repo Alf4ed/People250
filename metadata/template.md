@@ -3,10 +3,11 @@
 ## Overview
 [Brief description of the experiment's objective and what was changed]
 
-- **Date Conducted**: [YYYY-MM-DD]
+- **Date Conducted**: [DD-MM-YYYY]
 
 ## Experiment Parameters
 
+- **Input Images**: [E.g., original, ddd_protected, optimised_ddd_compressed]
 - **Base Model**: [e.g., stabilityai/stable-diffusion-2-inpainting]
 - **Protection Method**: [e.g., DDD, PhotoGuard, etc.]
 - **Resolution**: [Image resolution]
