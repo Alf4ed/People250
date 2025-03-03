@@ -1,4 +1,4 @@
-# Experiment Name: Imagen
+# Experiment Name: clean_inpainted/imagen
 
 ## Overview
 Default inpainting results using Imagen 2 - an alternative to stable diffusion. Results can be used to see if defenses generalise to other diffusion based inpainting models.
