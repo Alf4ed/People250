@@ -1,4 +1,4 @@
-# Experiment Name: adversarial/original_ddd
+# Experiment Name: adversarial/diffjpeg_ddd
 
 ## Overview
 Testing the effectiveness of our protection using **diffjpeg** against inpainting attacks. The *refactored-varyingSteps* branch was used (commit `e39905bf53576a6f59dba7202c454f597b46efad`)
