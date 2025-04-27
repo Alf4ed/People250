@@ -7,7 +7,7 @@ The **People250** dataset consists of 250 images containing people, along with c
 ## 📂 Dataset Structure
 
 ```plaintext
-fourth-year-project-dataset/
+People250/
 ├── original/                   # Original 250 images containing people
 ├── prompts/                    # Prompts used for generation/inpainting (text format)
 ├── masks/                      # Masks used during inpainting experiments
@@ -78,7 +78,7 @@ adversarial/
     * Diffusion model settings
     * Random seeds
     * Adversarial settings
-    
+
 An example is stored as `template.md`.
 
 ## 🏃 Usage Instructions
